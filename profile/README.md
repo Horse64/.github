@@ -14,7 +14,7 @@ func main {
 * [📦 Get it! (Tools etc.)](https://horse64.org/download)
 * [📖 Documentation is here](https://horse64.org/docs)
 
-This space contains mirrors for your convenience
+This GitHub space contains mirrors for your convenience
 that hopefully are up-to-date. *If you're an advanced user
 and want to collaborate or poke the sources,
 go to the [🔨 official dev repos on
