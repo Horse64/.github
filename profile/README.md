@@ -11,7 +11,7 @@ func main {
 }
 ```
 
-* [📦 Get it! (Tools etc.)](https://horse64.org/download)
+* [📦 Get it! (Tools etc.)](https://codeberg.org/Horse64/core.horse64.org/releases)
 * [📖 Documentation is here](https://horse64.org/docs)
 
 This GitHub space contains mirrors for your convenience
